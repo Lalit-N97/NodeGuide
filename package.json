@@ -1,0 +1,25 @@
+{
+  "name": "nodeguide",
+  "version": "1.0.0",
+  "description": "Nodejs Fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalit-N97/NodeGuide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lalit-N97/NodeGuide/issues"
+  },
+  "homepage": "https://github.com/Lalit-N97/NodeGuide#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
